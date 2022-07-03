@@ -2,4 +2,5 @@
 Sisteme kod yazmak.
 Sistemin veya iş kodu tasarlamak.
 Kodu hangi dilde yazalım? 
-Web Sayfası nasıl olmalı?
+Web Sayfası olmalımı?
+Nasıl Bir Sistemin Kodunu Yazalım?
