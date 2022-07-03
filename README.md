@@ -1,4 +1,5 @@
 # System-Code
 Sisteme kod yazmak.
 Sistemin veya iş kodu tasarlamak.
-Kodu hangi dilde yazalım?
+Kodu hangi dilde yazalım? 
+Web Sayfası nasıl olmalı?
